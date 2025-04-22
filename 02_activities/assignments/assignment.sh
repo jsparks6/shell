@@ -29,7 +29,7 @@ mkdir data
 cd data
 mkdir raw
 cd data
-mv ./rawdata ./raw
+mv ./rawdata ./data
 
 # 3. List the contents of the ./data/raw directory
 
